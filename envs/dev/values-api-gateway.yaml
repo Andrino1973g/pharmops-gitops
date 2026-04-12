@@ -4,7 +4,7 @@ fullnameOverride: api-gateway
 
 image:
   repository: 471112718685.dkr.ecr.us-east-1.amazonaws.com/api-gateway
-  tag: v1.0.0
+  tag: 
   pullPolicy: Always
 
 service:
