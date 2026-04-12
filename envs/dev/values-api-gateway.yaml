@@ -15,7 +15,7 @@ service:
 ingress:
   enabled: true
   className: nginx
-  host: a17336e0ac2424892b59d4706e558489-436f58806c3d202e.elb.us-east-1.amazonaws.com                                 
+  host: a9b97fae780e042e1a12bf0f63bf9274-c919335b0d63e0e0.elb.us-east-1.amazonaws.com                             
   path: /api
   pathType: Prefix
 
